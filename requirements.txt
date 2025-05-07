@@ -1,0 +1,8 @@
+Flask
+PyPDF2
+python-docx
+fpdf
+scikit-learn
+werkzeug
+requests
+unidecode
